@@ -1,0 +1,3 @@
+Rosie,white,13
+fudge,ginger,6
+poppy,calico,6
