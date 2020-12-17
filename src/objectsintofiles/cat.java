@@ -40,7 +40,7 @@ public class cat implements Serializable{
     
     @Override
     public String toString() {
-		return name + ","+ colour +","+ age;
+		return name + ","+ colour +","+ age; // Turns object into CSV
     }
     
 }
